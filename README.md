@@ -1,5 +1,5 @@
 # GoogleCodingChallenge-BrightNetworkTechnologyInternship2021
-- This repository is all about Google Coding Challenge, given to Bright Network Internship Experience 2021.
+- This repository is all about Google Coding Challenge, given to Bright Network Technology Internship 2021.
 ## How to run:
 - Download the project
 - Please extract the "_ init_.py" file as i upload it in zip. 
